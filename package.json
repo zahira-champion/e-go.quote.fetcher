@@ -1,6 +1,6 @@
 {
   "name": "e-go.quote.fetcher",
-  "description": "A tool to fetch live quote from Transworld via the e-go website using puppeteer and chromium headless",
+  "description": "A tool to fetch live quote from Transvirtual via the e-go website using puppeteer and chromium headless",
   "version": "1.0.0",
   "private": true,
   "scripts": {
