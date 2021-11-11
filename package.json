@@ -1,0 +1,18 @@
+{
+  "name": "e-go.quote.fetcher",
+  "description": "A tool to fetch live quote from Transworld via the e-go website using puppeteer and chromium headless",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www",
+    "watch": "nodemon"
+  },
+  "dependencies": {
+    "express": "~4.16.1",
+    "puppeteer": "^11.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.2.0",
+    "nodemon": "^2.0.15"
+  }
+}
