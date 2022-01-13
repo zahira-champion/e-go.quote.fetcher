@@ -8,4 +8,6 @@ app.use(express.urlencoded({ extended: false }));
 
 app.use('/', indexRouter);
 
+app.listen(3000);
+
 module.exports = app;
